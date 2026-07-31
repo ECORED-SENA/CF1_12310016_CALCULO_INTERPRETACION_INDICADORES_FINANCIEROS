@@ -13,7 +13,7 @@
                 .col-12.col-sm-9.col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
                   figure.mb-0.text-center
                     img(src='@/assets/curso/temas/t1/img1.png' style="width: 500px").m-auto
-                .col-12.col-lg-8.order-2.order-lg-1.bg-color-4.p-5(data-aos="fade-right")
+                .col-12.col-lg-8.order-2.order-lg-1.bg-color-2.p-5(data-aos="fade-right")
                   p El análisis financiero estudia estados financieros para evaluar situación económica, resultados e indicadores. Requiere información confiable, ética y normativa, considerando en Colombia la Ley 1314 de 2009 y el Decreto 2420 de 2015 como referentes contables y financieros.
             Separador
             //- Inicio Tema1.1
@@ -741,4 +741,3 @@ export default {
 </script>
 
 <style lang="sass"></style>
-
