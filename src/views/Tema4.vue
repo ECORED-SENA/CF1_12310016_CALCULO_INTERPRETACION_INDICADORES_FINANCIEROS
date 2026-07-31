@@ -457,8 +457,8 @@
                     tr
                       td Ventas a crédito
                       td $ 360.000.000
-                p.mt-3.mb-5 Tabla con fines didácticos para organizar datos antes de construir fórmulas financieras.
-            p.mt-5(data-aos="fade-left") La siguiente tabla refleja los indicadores calculados a partir de los datos organizados.
+                p.mt-3 Tabla con fines didácticos para organizar datos antes de construir fórmulas financieras.
+            p.mt-3(data-aos="fade-left") La siguiente tabla refleja los indicadores calculados a partir de los datos organizados.
           //- Inicio Tabla
           .row.mb-5
             .col-md-auto.col-lg-11
@@ -506,7 +506,7 @@
                       td 360 / 6
                       td 60 días
                 p.mt-3  Tabla con fines didácticos para mostrar resultados obtenidos mediante fórmulas aplicadas en hoja electrónica.                      
-            p.mt-5 <b>Interpretación del caso:</b> la empresa presenta capacidad de pago de corto plazo, con razón corriente de 1,80, prueba ácida de 1,10 y capital de trabajo positivo de $ 80.000.000; sin embargo, parte de sus recursos está concentrada en inventarios. El endeudamiento de 58,3 % y la relación deuda-patrimonio de 1,40 requieren seguimiento junto con la capacidad de pago y los gastos financieros. En rentabilidad, el margen neto de 7,9 % indica que conserva $ 7,9 por cada $ 100 vendidos, mientras la cartera se recupera cada 60 días, por lo que debe revisarse la gestión de cobro si supera la política de crédito. El ejercicio evidencia que la hoja electrónica facilita el cálculo, pero el análisis depende de validar datos, fórmulas e interpretación financiera.                 
+            p.mt-3 <b>Interpretación del caso:</b> la empresa presenta capacidad de pago de corto plazo, con razón corriente de 1,80, prueba ácida de 1,10 y capital de trabajo positivo de $ 80.000.000; sin embargo, parte de sus recursos está concentrada en inventarios. El endeudamiento de 58,3 % y la relación deuda-patrimonio de 1,40 requieren seguimiento junto con la capacidad de pago y los gastos financieros. En rentabilidad, el margen neto de 7,9 % indica que conserva $ 7,9 por cada $ 100 vendidos, mientras la cartera se recupera cada 60 días, por lo que debe revisarse la gestión de cobro si supera la política de crédito. El ejercicio evidencia que la hoja electrónica facilita el cálculo, pero el análisis depende de validar datos, fórmulas e interpretación financiera.                 
 </template>
 
 <script>

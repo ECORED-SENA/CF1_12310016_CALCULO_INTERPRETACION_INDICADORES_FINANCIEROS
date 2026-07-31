@@ -183,7 +183,7 @@
                         td Total pasivo más patrimonio
                         td $ 250.000.000
                         td $ 300.000.000
-                p.mb-5.mt-5.justify-content-center.bg-color-2.p-4.text-center Tabla con fines didácticos para aplicar indicadores financieros a partir del estado de situación financiera.electrónica.
+                p.mb-5.mt-3.justify-content-center.bg-color-2.p-4.text-center Tabla con fines didácticos para aplicar indicadores financieros a partir del estado de situación financiera.electrónica.
               p.mb-5(data-aos="fade-left") La siguiente tabla presenta indicadores de liquidez y endeudamiento calculados con la información del año 2.
               //- Inicio Tabla
               .row.mb-5.justify-content-center(data-aos="fade-left")
@@ -230,7 +230,7 @@
                           td Relación deuda-patrimonio
                           td $ 170.000.000 / $ 130.000.000
                           td 1,31
-                  p.mb-5.mt-5.justify-content-center.bg-color-2.p-4.text-center Tabla con fines didácticos para calcular indicadores financieros a partir del estado de situación financiera.
+                  p.mb-5.mt-3.justify-content-center.bg-color-2.p-4.text-center Tabla con fines didácticos para calcular indicadores financieros a partir del estado de situación financiera.
                   p <b>Interpretación inicial:</b> la razón corriente de 1,51 indica respaldo general para cubrir obligaciones de corto plazo; sin embargo, la prueba ácida de 0,77 muestra que, sin inventarios, la liquidez es insuficiente y depende de su rotación y de la recuperación de cartera.
                   p El endeudamiento de 56,7 % evidencia que más de la mitad de los activos está financiada con obligaciones. Además, el 55,9 % del pasivo vence a corto plazo y la relación deuda-patrimonio de 1,31 muestra mayor dependencia de deuda frente al patrimonio.                        
             Separador
@@ -289,7 +289,7 @@
                   td Utilidad neta
                   td $ 32.500.000
                   td $ 25.350.000
-            p.mb-5.mt-5.justify-content-center.bg-color-2.p-4.text-center Tabla con fines didácticos para aplicar indicadores financieros a partir del estado de resultados.
+            p.mb-3.mt-3.justify-content-center.bg-color-2.p-4.text-center Tabla con fines didácticos para aplicar indicadores financieros a partir del estado de resultados.
       .row.bg-fondo-2(data-aos="fade-right")
         .col-12
           .pt-3.pb-5.px-5         
@@ -332,7 +332,7 @@
                         td Cobertura de intereses
                         td $ 55.500.000 / $ 16.500.000
                         td 3,36 veces
-                  p.mb-5.mt-5.justify-content-center.bg-color-2.p-4.text-center Tabla con fines didácticos para calcular indicadores de rentabilidad y cobertura a partir del estado de resultados.
+                  p.mb-5.mt-3.justify-content-center.bg-color-2.p-4.text-center Tabla con fines didácticos para calcular indicadores de rentabilidad y cobertura a partir del estado de resultados.
                   p <b>Interpretación inicial:</b> el margen bruto de 35,0 % indica que por cada $ 100 vendidos quedan $ 35 después del costo de ventas. El margen operacional de 12,3 % refleja el efecto de los gastos operacionales y el margen neto de 5,6 % muestra la utilidad final conservada.
                   p El ROA de 8,5 % mide la rentabilidad sobre activos y el ROE de 19,5 % el rendimiento sobre patrimonio. La cobertura de intereses de 3,36 veces indica capacidad para cubrir gastos financieros, aunque estos deben vigilarse por su aumento frente al año anterior.
       Separador
@@ -406,7 +406,7 @@
                   td 26,0 %
                   td 19,5 %
                   td Disminuye el rendimiento del patrimonio
-            p.mb-5.mt-5.justify-content-center.bg-color-2.p-4.text-center Tabla con fines didácticos para comparar indicadores financieros entre dos periodos.
+            p.mb-5.mt-3.justify-content-center.bg-color-2.p-4.text-center Tabla con fines didácticos para comparar indicadores financieros entre dos periodos.
             p <b>Interpretación comparativa:</b> la empresa aumentó su capital de trabajo neto, pero la prueba ácida disminuyó, lo que sugiere que el activo corriente está concentrado en inventarios o cartera y no en recursos líquidos. Por ello, debe revisarse su composición antes de afirmar que la liquidez mejoró.
             p Además, el endeudamiento y la relación deuda-patrimonio aumentaron, mientras los márgenes de rentabilidad disminuyeron. Esta combinación indica mayor dependencia de financiación externa y menor utilidad sobre las ventas, lo que representa una señal de alerta financiera.
       Separador
@@ -496,7 +496,7 @@
                 p En Comercial Andina S.A.S. se observa que las ventas aumentaron, pero los márgenes de rentabilidad disminuyeron. Esta situación representa una alerta porque el crecimiento comercial no se está convirtiendo en mayor utilidad. Al revisar las cifras, se identifica que el costo de ventas creció de forma importante, afectando el margen bruto.
                 p También se observa que el endeudamiento aumentó y la prueba ácida disminuyó. Esto sugiere que la empresa debe revisar su capacidad de pago, la composición del activo corriente y el peso de sus obligaciones. Estas alertas sirven como base para un análisis más profundo en la etapa de interpretación y toma de decisiones.
       p.mb-5(data-aos="fade-left") El siguiente caso integrador permite aplicar indicadores financieros a la información contable de dos periodos. Su propósito es calcular resultados de liquidez, actividad, endeudamiento y rentabilidad para identificar señales iniciales que orienten un análisis financiero posterior.
-      .row.justify-content-center.mb-5(data-aos="fade-left")
+      .row.justify-content-center.mb-3(data-aos="fade-left")
         .col-lg-10.bg-color-2.p-5
           p.fw-bold Caso práctico integrador
           p.mb-5 La empresa Comercial del Sur S.A.S. presenta la siguiente información financiera resumida, así:
@@ -579,20 +579,20 @@
                         td $ 45.000.000
                         td $ 36.000.000 
                   p.mt-3 Tabla con fines didácticos para aplicar indicadores financieros de rentabilidad y cobertura.
-              p.mt-5(data-aos="fade-left") A continuación, se presenta información adicional del año 2:
-              ul.lista-ul.color-vinotinto-custom.mb-0.p-1.d-inline-block.mb-5
+              p.mt-3(data-aos="fade-left") A continuación, se presenta información adicional del año 2:
+              ul.lista-ul.color-vinotinto-custom.mb-0.p-1.d-inline-block.mb-3
                     li.d-flex
                       .fas.fa-check-circle.me-2
-                      span Ventas a crédito: $ 390.000.000
+                      span.fw-bold Ventas a crédito: $ 390.000.000
                     li.d-flex
                       .fas.fa-check-circle.me-2
-                      span Cuentas por cobrar promedio: $ 65.000.000
+                      span.fw-bold Cuentas por cobrar promedio: $ 65.000.000
                     li.d-flex
                       .fas.fa-check-circle.me-2
-                      span Inventario promedio: $ 80.000.000
+                      span.fw-bold Inventario promedio: $ 80.000.000
               p La siguiente tabla presenta indicadores de liquidez, actividad, endeudamiento y rentabilidad calculados con información del año 2.                      
             //- Inicio Tabla
-            .row.mb-5
+            .row.mb-0
               .col-md-auto.col-lg-9
                 .titulo-sexto.color-acento-contenido.mb-3
                   h5 Tabla 23.
@@ -601,10 +601,10 @@
                   table
                     thead
                       tr
-                        th(style="width: 20%") XXXXXXX
-                        th(style="width: 20%") XXXXXXX
-                        th(style="width: 40%") XXXXXXX
-                        th(style="width: 20%") XXXXXXX
+                        th(style="width: 20%") Grupo
+                        th(style="width: 20%") Indicador
+                        th(style="width: 40%") Cálculo
+                        th(style="width: 20%") Resultado
                     tbody
                       tr
                         td Liquidez
@@ -682,7 +682,7 @@
                         td $ 36.000.000 / $ 136.000.000 × 100
                         td 26,5 %                                      
                   p.mt-3 Tabla con fines didácticos para integrar el cálculo de indicadores financieros básicos.
-              p.mt-5(data-aos="fade-left") <b>Interpretación del caso:</b> la empresa presenta capacidad general de pago, pero la prueba ácida de 0,78 evidencia dependencia de inventarios. La cartera se recupera cada 60 días y los inventarios permanecen 83 días, lo que exige revisar recaudos y rotación. El endeudamiento de 60,0 % y la relación deuda-patrimonio de 1,50 muestran alta dependencia de obligaciones. Aunque la cobertura de intereses es de 3,55 veces, los márgenes disminuyen y el margen neto de 6,9 % refleja menor utilidad final. En conjunto, se identifican alertas sobre liquidez, actividad, endeudamiento y rentabilidad. 
+              p.mt-3(data-aos="fade-left") <b>Interpretación del caso:</b> la empresa presenta capacidad general de pago, pero la prueba ácida de 0,78 evidencia dependencia de inventarios. La cartera se recupera cada 60 días y los inventarios permanecen 83 días, lo que exige revisar recaudos y rotación. El endeudamiento de 60,0 % y la relación deuda-patrimonio de 1,50 muestran alta dependencia de obligaciones. Aunque la cobertura de intereses es de 3,55 veces, los márgenes disminuyen y el margen neto de 6,9 % refleja menor utilidad final. En conjunto, se identifican alertas sobre liquidez, actividad, endeudamiento y rentabilidad. 
       p(data-aos="fade-left") Para concluir, los temas desarrollados resaltan la importancia de organizar información contable confiable, calcular indicadores financieros y analizar resultados más allá de cifras aisladas. Este proceso permite identificar estructuras, variaciones, participaciones y condiciones de liquidez, actividad, endeudamiento y rentabilidad, como base para interpretar, diagnosticar, presentar informes y tomar decisiones financieras mejor sustentadas.
 </template>
 
