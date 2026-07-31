@@ -333,7 +333,7 @@
                         td $ 55.500.000 / $ 16.500.000
                         td 3,36 veces
                   p.mb-5.mt-5.justify-content-center.bg-color-2.p-4.text-center Tabla con fines didácticos para calcular indicadores de rentabilidad y cobertura a partir del estado de resultados.
-                  p <b>Interpretación inicial:</b> el margen bruto de 35,0 % indica que por cada $100 vendidos quedan $35 después del costo de ventas. El margen operacional de 12,3 % refleja el efecto de los gastos operacionales y el margen neto de 5,6 % muestra la utilidad final conservada.
+                  p <b>Interpretación inicial:</b> el margen bruto de 35,0 % indica que por cada $ 100 vendidos quedan $ 35 después del costo de ventas. El margen operacional de 12,3 % refleja el efecto de los gastos operacionales y el margen neto de 5,6 % muestra la utilidad final conservada.
                   p El ROA de 8,5 % mide la rentabilidad sobre activos y el ROE de 19,5 % el rendimiento sobre patrimonio. La cobertura de intereses de 3,36 veces indica capacidad para cubrir gastos financieros, aunque estos deben vigilarse por su aumento frente al año anterior.
       Separador
       //- Inicio Tema5.4
@@ -659,27 +659,27 @@
                       tr
                         td Rentabilidad
                         td Margen bruto
-                        td $171.600.000 / $520.000.000 × 100
+                        td $ 171.600.000 / $ 520.000.000 × 100
                         td 33,0 %
                       tr
                         td Rentabilidad
                         td Margen operacional
-                        td $78.000.000 / $520.000.000 × 100
+                        td 8.000.000 / $ 520.000.000 × 100
                         td 15,0 %
                       tr
                         td Rentabilidad
                         td Margen neto
-                        td $36.000.000 / $520.000.000 × 100
+                        td $ 36.000.000 / $ 520.000.000 × 100
                         td 6,9 %
                       tr
                         td Rentabilidad
                         td ROA
-                        td $36.000.000 / $340.000.000 × 100
+                        td $ 36.000.000 / $ 340.000.000 × 100
                         td 10,6 %
                       tr
                         td Rentabilidad
                         td ROE
-                        td $36.000.000 / $136.000.000 × 100
+                        td $ 36.000.000 / $ 136.000.000 × 100
                         td 26,5 %                                      
                   p.mt-3 Tabla con fines didácticos para integrar el cálculo de indicadores financieros básicos.
               p.mt-5(data-aos="fade-left") <b>Interpretación del caso:</b> la empresa presenta capacidad general de pago, pero la prueba ácida de 0,78 evidencia dependencia de inventarios. La cartera se recupera cada 60 días y los inventarios permanecen 83 días, lo que exige revisar recaudos y rotación. El endeudamiento de 60,0 % y la relación deuda-patrimonio de 1,50 muestran alta dependencia de obligaciones. Aunque la cobertura de intereses es de 3,55 veces, los márgenes disminuyen y el margen neto de 6,9 % refleja menor utilidad final. En conjunto, se identifican alertas sobre liquidez, actividad, endeudamiento y rentabilidad. 

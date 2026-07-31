@@ -93,7 +93,7 @@
                     p Margen neto = utilidad neta / ventas × 100
                     p Margen neto = $ 20.000.000 / $ 400.000.000 × 100
                     p Margen neto = 5 %
-                p Este resultado indica que por cada $100 vendidos, la empresa conserva $5 como utilidad final. La lectura financiera permite revisar si ese margen es suficiente frente a sus costos, gastos, metas internas o resultados de años anteriores.
+                p Este resultado indica que por cada $ 100 vendidos, la empresa conserva $ 5 como utilidad final. La lectura financiera permite revisar si ese margen es suficiente frente a sus costos, gastos, metas internas o resultados de años anteriores.
       .row.bg-fondo-2(data-aos="fade-right")
         .col-12
           .pt-3.pb-5.px-5        

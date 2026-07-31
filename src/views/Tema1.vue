@@ -188,7 +188,7 @@
               .col-12.col-md-7.col-lg-8.p-4.p-lg-5.text-start.bg-color-4.d-flex.flex-column.justify-content-center
                 p.fw-bold Ejemplo aplicado
                 p Una empresa tiene activos por $ 200.000.000, pasivos por $ 120.000.000 y patrimonio por $ 80.000.000. Esta información permite observar cómo está financiada la empresa. Si el pasivo representa una proporción alta de los activos, el análisis de endeudamiento será importante para determinar el nivel de dependencia frente a terceros.
-                p Si además la empresa presenta ventas por $ 250.000.000 y utilidad neta por $ 15.000.000, se puede calcular un margen neto del 6 %. Esto significa que por cada $ 100 vendidos, conserva $6 como utilidad final. La interpretación del resultado exige comparar ese porcentaje con periodos anteriores, metas internas o referencias del sector. 
+                p Si además la empresa presenta ventas por $ 250.000.000 y utilidad neta por $ 15.000.000, se puede calcular un margen neto del 6 %. Esto significa que por cada $ 100 vendidos, conserva $ 6 como utilidad final. La interpretación del resultado exige comparar ese porcentaje con periodos anteriores, metas internas o referencias del sector. 
               .col-12.col-md-5.col-lg-4.position-relative
                 figure.mb-0.h-100.w-100
                   img(src="@/assets/curso/temas/t1/img3.png" alt="" style="width: 100%; height: 100%; object-fit: cover; display: block;")
@@ -395,7 +395,7 @@
                 .row.mb-4
                   .col-12.bg-color-6.p-4.text-white.rounded-4
                     p Margen neto = utilidad neta / ventas × 100
-                    p Margen neto = $ 10.000.000 / $ 200.000.000 × 100
+                    p Margen neto = $ 10.000.000 / $ 200.000.000 × 100<br><br>
                     p Margen neto = 5 %
                 p Este indicador muestra que por cada $ 100 vendidos, la empresa conserva $ 5 como utilidad final. Con esta medición, la gerencia puede revisar si el margen es suficiente frente a sus costos, gastos, metas internas o comportamiento de años anteriores.
               .col-12.col-md-5.col-lg-4.position-relative

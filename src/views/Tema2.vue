@@ -270,7 +270,7 @@
             .row.g-0.align-items-stretch                
               .col-12.col-md-5.col-lg-4.position-relative
                 figure.mb-0.h-100.w-100
-                  img(src="@/assets/curso/temas/t2/img3.png" alt="" style="width: 100%; height: 100%; object-fit: cover; display: block;")
+                  img(src="@/assets/curso/temas/t2/img4.png" alt="" style="width: 100%; height: 100%; object-fit: cover; display: block;")
               .col-12.col-md-7.col-lg-8.p-4.p-lg-5.text-start.bg-color-4.d-flex.flex-column.justify-content-center
                 p.fw-bold Ejemplo aplicado
                 p Una empresa presenta ventas por $ 180.000.000 en el año 1 y $ 225.000.000 en el año 2.
@@ -319,6 +319,7 @@
                   td $ 24.000.000
                   td $ 20.000.000
                   td -$ 4.000.000
+            p.mb-5.mt-5.justify-content-center.bg-color-2.p-4.text-center La tabla muestra el cambio en pesos de algunas cuentas entre dos periodos.
       .row.justify-content-center(data-aos="fade-left")
         .col-lg-8
           p <b>Interpretación:</b> las ventas aumentaron $ 45.000.000, pero el costo de ventas aumentó $ 42.000.000. Aunque la empresa vendió más, gran parte del crecimiento fue absorbido por el costo. Además, la utilidad neta disminuyó $ 4.000.000, lo cual indica que el aumento de ventas no se tradujo en una mejor ganancia final.
@@ -471,7 +472,7 @@
                       td Total pasivo más patrimonio
                       td $ 200.000.000
                       td $ 250.000.000
-          p Tabla con fines didácticos para desarrollar análisis vertical y horizontal en el estado de situación financiera.
+              p.mt-3 Tabla con fines didácticos para desarrollar análisis vertical y horizontal en el estado de situación financiera.
           p.mb-5 A continuación, se realizan el análisis vertical y horizontal. Integra la participación del año 2 y variaciones entre los dos periodos.
           //- Inicio Tabla
           .row.mb-5

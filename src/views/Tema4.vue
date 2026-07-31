@@ -186,8 +186,8 @@
                 p Una empresa presenta ventas por $ 180.000.000 en el año 1 y $ 225.000.000 en el año 2. La variación absoluta se calcula restando el valor del año 1 al valor del año 2, y la variación relativa se calcula dividiendo esa diferencia entre el valor del año 1.
                 .row.mb-3
                   .col-lg-12.p-4.bg-color-6.p-2.d-inline-block.rounded-4.text-white
-                    p Variación absoluta = $225.000.000 - $180.000.000 = $45.000.000
-                    p Variación relativa = $45.000.000 / $180.000.000 × 100 = 25 %
+                    p Variación absoluta = $ 225.000.000 - $ 180.000.000 = $ 45.000.000
+                    p Variación relativa = $ 45.000.000 / $ 180.000.000 × 100 = 25 %
       p(data-aos="fade-left") La hoja electrónica permite construir estas fórmulas una sola vez y copiarlas hacia otras cuentas, siempre que las celdas estén correctamente referenciadas.
       Separador
       //- Inicio Tema4.3
@@ -506,7 +506,7 @@
                       td 360 / 6
                       td 60 días
                 p.mt-3  Tabla con fines didácticos para mostrar resultados obtenidos mediante fórmulas aplicadas en hoja electrónica.                      
-            p.mt-5 <b>Interpretación del caso:</b> la empresa presenta capacidad de pago de corto plazo, con razón corriente de 1,80, prueba ácida de 1,10 y capital de trabajo positivo de $80.000.000; sin embargo, parte de sus recursos está concentrada en inventarios. El endeudamiento de 58,3 % y la relación deuda-patrimonio de 1,40 requieren seguimiento junto con la capacidad de pago y los gastos financieros. En rentabilidad, el margen neto de 7,9 % indica que conserva $7,9 por cada $100 vendidos, mientras la cartera se recupera cada 60 días, por lo que debe revisarse la gestión de cobro si supera la política de crédito. El ejercicio evidencia que la hoja electrónica facilita el cálculo, pero el análisis depende de validar datos, fórmulas e interpretación financiera.                 
+            p.mt-5 <b>Interpretación del caso:</b> la empresa presenta capacidad de pago de corto plazo, con razón corriente de 1,80, prueba ácida de 1,10 y capital de trabajo positivo de $ 80.000.000; sin embargo, parte de sus recursos está concentrada en inventarios. El endeudamiento de 58,3 % y la relación deuda-patrimonio de 1,40 requieren seguimiento junto con la capacidad de pago y los gastos financieros. En rentabilidad, el margen neto de 7,9 % indica que conserva $ 7,9 por cada $ 100 vendidos, mientras la cartera se recupera cada 60 días, por lo que debe revisarse la gestión de cobro si supera la política de crédito. El ejercicio evidencia que la hoja electrónica facilita el cálculo, pero el análisis depende de validar datos, fórmulas e interpretación financiera.                 
 </template>
 
 <script>
