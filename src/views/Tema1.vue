@@ -290,7 +290,7 @@
             .row.g-0.align-items-stretch              
               .col-12.col-md-7.col-lg-8.p-4.p-lg-5.text-start.bg-color-4.d-flex.flex-column.justify-content-center
                 p.fw-bold Ejemplo aplicado
-                p Una empresa presenta activo corriente por $ 90.000.000 y pasivo corriente por $ 60.000.000. Al calcular la razón corriente se obtiene:
+                p Una empresa presenta activo corriente por $ 90.000.000 y pasivo corriente por $ 60.000.000. Al calcular la razón corriente, se obtiene:
                 .row 
                   .col-12.bg-color-6.p-4.text-white.rounded-4
                     p Razón corriente = activo corriente / pasivo corriente
@@ -397,7 +397,7 @@
                     p Margen neto = utilidad neta / ventas × 100
                     p Margen neto = $ 10.000.000 / $ 200.000.000 × 100<br><br>
                     p Margen neto = 5 %
-                p Este indicador muestra que por cada $ 100 vendidos, la empresa conserva $ 5 como utilidad final. Con esta medición, la gerencia puede revisar si el margen es suficiente frente a sus costos, gastos, metas internas o comportamiento de años anteriores.
+                p Este indicador muestra que, por cada $ 100 vendidos, la empresa conserva $ 5 como utilidad final. Con esta medición, la gerencia puede revisar si el margen es suficiente frente a sus costos, gastos, metas internas o comportamiento de años anteriores.
               .col-12.col-md-5.col-lg-4.position-relative
                 figure.mb-0.h-100.w-100
                   img(src="@/assets/curso/temas/t1/img8.png" alt="" style="width: 100%; height: 100%; object-fit: cover; display: block;")      
@@ -506,7 +506,7 @@
               .col-12.col-md-5.col-lg-4.position-relative
                 figure.mb-0.h-100.w-100
                   img(src="@/assets/curso/temas/t1/img10.png" alt="" style="width: 100%; height: 100%; object-fit: cover; display: block;")
-      p(data-aos="fade-left") La ética profesional hace parte de la calidad del análisis financiero, porque los indicadores calculados con cifras incompletas o manipuladas pierden validez.otros       
+      p(data-aos="fade-left") La ética profesional hace parte de la calidad del análisis financiero, porque los indicadores calculados con cifras incompletas o manipuladas pierden validez.       
       Separador
       //- Inicio Tema1.8
       .row
@@ -571,7 +571,7 @@
                               img(src='@/assets/curso/temas/t1/tarjeta05_7.svg' alt='' style="width: 90px; height: 90px; object-fit: contain;").mx-auto
                           .p-2
                             h4.card-title.text-center.mb-3.fw-bold Inversionistas (usuario externo)
-                            p.text-start Inversionistas (usuario externo)
+                            p.text-start Analizan rentabilidad, crecimiento y posibilidad de inversión en la empresa.
                         .bg-white.tarjeta.h-100.shadow-app.bordes.overflow-hidden.p-4.text-center
                           .row.justify-content-center.mb-3.mt-3
                             .col-auto

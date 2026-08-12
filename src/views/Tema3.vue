@@ -93,7 +93,7 @@
                     p Margen neto = utilidad neta / ventas × 100
                     p Margen neto = $ 20.000.000 / $ 400.000.000 × 100
                     p Margen neto = 5 %
-                p Este resultado indica que por cada $ 100 vendidos, la empresa conserva $ 5 como utilidad final. La lectura financiera permite revisar si ese margen es suficiente frente a sus costos, gastos, metas internas o resultados de años anteriores.
+                p Este resultado indica que, por cada $ 100 vendidos, la empresa conserva $ 5 como utilidad final. La lectura financiera permite revisar si ese margen es suficiente frente a sus costos, gastos, metas internas o resultados de años anteriores.
       .row.bg-fondo-2(data-aos="fade-right")
         .col-12
           .pt-3.pb-5.px-5        
@@ -115,7 +115,7 @@
                         p.mb-4 Se calcula dividiendo el activo corriente entre el pasivo corriente. Mide el respaldo general de corto plazo e indica cuántos pesos de activo corriente respaldan cada peso de deuda corriente. La fórmula es:
                         p.fw-bold Razón corriente = activo corriente / pasivo corriente
                     .row(titulo="Prueba ácida")
-                        p.mb-4 Se calcula restando los inventarios al activo corriente y dividiendo el resultado entre el pasivo corriente. Mide la capacidad de pago sin depender de la venta de inventarios. Su es fórmula es:
+                        p.mb-4 Se calcula restando los inventarios al activo corriente y dividiendo el resultado entre el pasivo corriente. Mide la capacidad de pago sin depender de la venta de inventarios. Su fórmula es:
                         p.fw-bold Prueba ácida = (activo corriente - inventarios) / pasivo corriente
                     .row(titulo="Capital de trabajo neto")
                         p.mb-4 Se calcula restando el pasivo corriente al activo corriente. Mide el excedente o déficit de recursos corrientes después de cubrir obligaciones de corto plazo. La fórmula se escribe a continuación:
@@ -229,22 +229,22 @@
                     img(src="@/assets/curso/temas/t3/img6.png", alt="").img400.m-auto
                 .col-lg-9
                   AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
-                    .row.g-0(titulo="Nivel de endeudamiento")
-                        p.mb-4 Mide el porcentaje de activos financiados con deuda. Un mayor porcentaje indica mayor dependencia de terceros.
-                          div.mt-3
-                            span.bg-color-2.p-2.d-inline-block <b>Fórmula:</b> total pasivo / total activo × 100
+                    .row(titulo="Nivel de endeudamiento")
+                      p.mb-3 Mide el porcentaje de activos financiados con deuda. Un mayor porcentaje indica mayor dependencia de terceros.
+                        div
+                          span.bg-color-2.p-2.d-inline-block <b>Fórmula:</b> total pasivo / total activo × 100
                     .row(titulo="Concentración del endeudamiento")
-                        p.mb-4 Mide la proporción de deudas exigibles en el corto plazo. Una mayor concentración aumenta la presión de pagos próximos.
-                          div.mt-3
-                            span.bg-color-2.p-2.d-inline-block <b>Fórmula:</b> pasivo corriente / total pasivo × 100
+                      p.mb-3 Mide la proporción de deudas exigibles en el corto plazo. Una mayor concentración aumenta la presión de pagos próximos.
+                       div
+                          span.bg-color-2.p-2.d-inline-block <b>Fórmula:</b> pasivo corriente / total pasivo × 100
                     .row(titulo="Relación deuda-patrimonio")
-                        p.mb-4 Compara los recursos financiados por terceros con los recursos propios. Muestra cuánta deuda existe por cada peso de patrimonio.
-                          div.mt-3
-                            span.bg-color-2.p-2.d-inline-block <b>Fórmula:</b> total pasivo / patrimonio
+                      p.mb-3 Compara los recursos financiados por terceros con los recursos propios. Muestra cuánta deuda existe por cada peso de patrimonio.
+                       div
+                          span.bg-color-2.p-2.d-inline-block <b>Fórmula:</b> total pasivo / patrimonio
                     .row(titulo="Cobertura de intereses")
-                        p.mb-4 Mide la capacidad de la utilidad operacional para cubrir los gastos financieros. Una mayor cobertura indica mejor capacidad para pagar intereses.
-                          div.mt-3
-                            span.bg-color-2.p-2.d-inline-block <b>Fórmula:</b> utilidad operacional / gastos financieros
+                      p.mb-3 Mide la capacidad de la utilidad operacional para cubrir los gastos financieros. Una mayor cobertura indica mejor capacidad para pagar intereses.
+                       div
+                          span.bg-color-2.p-2.d-inline-block <b>Fórmula:</b> utilidad operacional / gastos financieros
             //- Fin Accordion
       p(data-aos="fade-left") Con los datos de pasivo, activo y patrimonio, en el siguiente ejemplo se analiza qué proporción de los recursos está financiada con obligaciones y cómo se relaciona la deuda con el patrimonio.
       .row.justify-content-center.mb-5(data-aos="fade-right")

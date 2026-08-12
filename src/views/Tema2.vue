@@ -64,11 +64,13 @@
       .row
         #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 2.2 Análisis vertical
-      .row.mb-5.justify-content-center.align-items-center
+      .row.mb-5.justify-content-center.align-items-stretch
         .col-12.col-sm-9.col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
-          p.p-5.rounded-4.bg-color-6.text-white Participación porcentual = cuenta analizada / total base × 100
-        .col-12.col-lg-7.order-2.order-lg-1.bg-color-2.p-4(data-aos="fade-right")
-          p El análisis vertical calcula el porcentaje de cada cuenta frente a un total de referencia. Permite identificar el peso de activos, pasivos, patrimonio, costos, gastos y utilidades dentro de los estados financieros. La fórmula es:
+          .p-4.rounded-4.bg-color-6.text-white.h-100.d-flex.align-items-center
+            p.mb-0 Participación porcentual = cuenta analizada / total base × 100
+        .col-12.col-lg-7.order-2.order-lg-1(data-aos="fade-right")
+          .bg-color-2.p-4.rounded-4.h-100.d-flex.align-items-center
+            p.mb-0 El análisis vertical calcula el porcentaje de cada cuenta frente a un total de referencia. Permite identificar el peso de activos, pasivos, patrimonio, costos, gastos y utilidades dentro de los estados financieros. La fórmula es:
       p(data-aos="fade-left") Cada estado financiero utiliza una base de comparación específica para interpretar la participación de sus cuentas. Esto se explica a continuación:
       .row.bg-fondo-2(data-aos="fade-right")
         .col-12
@@ -81,7 +83,7 @@
                     img(src='@/assets/curso/temas/t2/tarjeta02_1.png').w-100
                   .p-4
                     h4.card-title.text-center.mb-4 Estado de situación financiera: activos
-                    p.mb-0 Las cuentas de activos corrientes y no corrientes se comparan con el total activo. Esta relación permite identificar la participación de cada recurso dentro de la inversión total de la empresa.
+                    p.mb-0 Las cuentas de activos corrientes y no corrientes se comparan con el total de activos. Esta relación permite identificar la participación de cada recurso dentro de la inversión total de la empresa.
               .col-sm-12.col-md-6.col-lg-4.mb-4.d-flex.flex-column
                 .tarjeta.p-0.rounded-5.h-100.bg-color-7.overflow-hidden
                   figure.mb-0
@@ -153,7 +155,7 @@
         .col-lg-12
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/kTAcV-jKYcg?si=6iNpAChoBXiNpJ-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       Separador
       //- Inicio Tema2.3
       .row
@@ -283,7 +285,7 @@
       .row
         #t_2_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 2.5 Cálculo de variaciones absolutas
-      p.mb-5(data-aos="fade-left") La variación absoluta muestra el cambio en pesos de una cuenta entre un periodo y otro. Este cálculo es importante porque permite identificar cuánto aumentó o disminuyó una cifra. La siguiente tabla ejemplifica el cálculo de variaciones absolutas
+      p.mb-5(data-aos="fade-left") La variación absoluta muestra el cambio en pesos de una cuenta entre un periodo y otro. Este cálculo es importante porque permite identificar cuánto aumentó o disminuyó una cifra. La siguiente tabla ejemplifica el cálculo de variaciones absolutas.
       //- Inicio Tabla
       .row.mb-5.justify-content-center(data-aos="fade-left")
         .col-md-auto.col-lg-8

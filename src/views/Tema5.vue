@@ -183,7 +183,7 @@
                         td Total pasivo más patrimonio
                         td $ 250.000.000
                         td $ 300.000.000
-                p.mb-5.mt-3.justify-content-center.bg-color-2.p-4.text-center Tabla con fines didácticos para aplicar indicadores financieros a partir del estado de situación financiera.electrónica.
+                p.mb-5.mt-3.justify-content-center.bg-color-2.p-4.text-center Tabla con fines didácticos para aplicar indicadores financieros a partir del estado de situación financiera.
               p.mb-5(data-aos="fade-left") La siguiente tabla presenta indicadores de liquidez y endeudamiento calculados con la información del año 2.
               //- Inicio Tabla
               .row.mb-5.justify-content-center(data-aos="fade-left")
@@ -293,7 +293,7 @@
       .row.bg-fondo-2(data-aos="fade-right")
         .col-12
           .pt-3.pb-5.px-5         
-            p.mb-5(data-aos="fade-left") A continuación, mediante tabla se presentan los indicadores de rentabilidad calculados con información del año 2.
+            p.mb-5(data-aos="fade-left") A continuación, mediante tabla, se presentan los indicadores de rentabilidad calculados con información del año 2.
             //- Inicio Tabla
             .row.mb-5.justify-content-center(data-aos="fade-left")
               .col-md-auto.col-lg-8
@@ -340,7 +340,7 @@
       .row
         #t_5_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 5.4 Lectura comparativa de resultados financieros
-      p.mb-5(data-aos="fade-left") La lectura comparativa analiza la evolución de los indicadores frente al año anterior para identificar mejoras, estabilidad o deterioro. También permite relacionar resultados entre sí, como ventas y margen neto, razón corriente y prueba ácida, o endeudamiento y rentabilidad. En la siguiente tabla se compara indicadores financieros de Comercial Andina S.A.S. entre el año 1 y el año 2.
+      p.mb-5(data-aos="fade-left") La lectura comparativa analiza la evolución de los indicadores frente al año anterior para identificar mejoras, estabilidad o deterioro. También permite relacionar resultados entre sí, como ventas y margen neto, razón corriente y prueba ácida, o endeudamiento y rentabilidad. En la siguiente tabla se comparan indicadores financieros de Comercial Andina S.A.S. entre el año 1 y el año 2.
       //- Inicio Tabla
       .row.mb-5.justify-content-center(data-aos="fade-left")
         .col-md-auto.col-lg-10

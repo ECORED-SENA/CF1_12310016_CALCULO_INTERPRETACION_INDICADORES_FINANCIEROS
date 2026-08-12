@@ -323,7 +323,7 @@
                   td ¿Los resultados tienen una lectura financiera coherente?
                   td Sí / No
             p.mt-5.justify-content-center.bg-color-2.p-4.text-center Tabla con fines didácticos para validar la calidad de los cálculos antes de presentar resultados financieros.
-      p.mb-5(data-aos="fade-right") A continuación, se realiza un ejemplo que presenta como una fórmula mal construida puede cambiar la interpretación financiera de un resultado.
+      p.mb-5(data-aos="fade-right") A continuación, se realiza un ejemplo que presenta cómo una fórmula mal construida puede cambiar la interpretación financiera de un resultado.
       .row.justify-content-center.mb-5(data-aos="fade-right")
         .col-12.col-lg-10
           .overflow-hidden.shadow
@@ -348,7 +348,7 @@
                     li.d-flex.align-items-start.mb-0
                       i.fas.fa-check-circle.me-3
                       span <b>Variación relativa:</b> $ 20.000.000 / $ 50.000.000 × 100 = 40 %
-                p.mb-0 El error cambia completamente la lectura financiera. No es lo mismo afirmar que los inventarios aumentaron 140 % a afirmar que aumentaron 40 %. Por esta razón, la revisión de fórmulas es indispensable antes de interpretar resultados.
+                p.mb-0 El error cambia completamente la lectura financiera. No es lo mismo afirmar que los inventarios aumentaron 140 % que afirmar que aumentaron 40 %. Por esta razón, la revisión de fórmulas es indispensable antes de interpretar resultados.
       .row.bg-fondo-2(data-aos="fade-right")
         .col-12
           .pt-3.pb-5.px-5            
